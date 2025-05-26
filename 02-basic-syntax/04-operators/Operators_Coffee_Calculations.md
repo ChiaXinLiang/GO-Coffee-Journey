@@ -25,11 +25,11 @@ graph TD
     A --> E[Bitwise]
     A --> F[Assignment]
     
-    B --> G[+ - * / %]
-    C --> H[== != < > <= >=]
-    D --> I[&& || !]
-    E --> J[& | ^ << >>]
-    F --> K[= += -= *= /=]
+    B --> G[Plus Minus Times Divide Mod]
+    C --> H[Equals NotEquals Less Greater]
+    D --> I[AND OR NOT]
+    E --> J[Bitwise operations]
+    F --> K[Assign and compound]
     
     style A fill:#3498db,stroke:#fff,color:#fff
     style B fill:#2ecc71,stroke:#fff,color:#fff

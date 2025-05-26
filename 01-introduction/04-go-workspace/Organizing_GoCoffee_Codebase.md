@@ -525,7 +525,7 @@ As Marcus packs up for the day, he's excited about tomorrow's topics:
 
 The GoCoffee system is starting to take shape!
 
-Continue to [Chapter 2: Understanding the Menu](../../02-basic-syntax/README.md) →
+Continue to [Chapter 2: Understanding the Menu](../../02-basic-syntax/Chapter2_Understanding_the_Menu.md) →
 
 ---
 

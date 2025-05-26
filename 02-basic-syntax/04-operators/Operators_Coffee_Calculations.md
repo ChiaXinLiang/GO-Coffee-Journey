@@ -1238,7 +1238,7 @@ func main() {
     
     // Right: explicit conversion
     result := int64(count) * multiplier
-    fmt.Printf"%d × %d = %d\n", count, multiplier, result)
+    fmt.Printf("%d × %d = %d\n", count, multiplier, result)
     
     // Pitfall 7: Short-circuit evaluation
     fmt.Println("\nPITFALL 7: Short-Circuit Side Effects")

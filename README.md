@@ -29,7 +29,7 @@ Each chapter represents a new sprint in Marcus's journey:
 1. **[Chapter 1: The First Day](01-introduction/Chapter1_The_First_Day.md)** - Marcus joins GoCoffee and sets up the development environment
 2. **[Chapter 2: Understanding the Menu](02-basic-syntax/Chapter2_Understanding_the_Menu.md)** - Learning to represent coffee data
 3. **[Chapter 3: Taking Orders](03-control-structures/Chapter3_Taking_Orders.md)** - Building order logic
-4. **[Chapter 4: Brewing Functions](04-functions/Chapter4_Brewing_Functions.md)** - Creating reusable coffee recipes
+4. **[Chapter 4: The Recipe Book](04-functions/Chapter4_Recipe_Book.md)** - Creating reusable coffee recipes
 5. **[Chapter 5: The Coffee Shop](05-structs-methods/Chapter5_The_Coffee_Shop.md)** - Modeling the business
 6. **[Chapter 6: Payment Systems](06-interfaces/Chapter6_Payment_Systems.md)** - Handling different payment methods
 7. **[Chapter 7: When Things Go Wrong](07-error-handling/Chapter7_When_Things_Go_Wrong.md)** - Dealing with order errors
